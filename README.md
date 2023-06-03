@@ -1,4 +1,4 @@
-Controls:
+## Controls:
 
 Mouse3 (scroll wheel) -- scroll to zoom camera in and out
 
