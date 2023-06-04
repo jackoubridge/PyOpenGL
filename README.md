@@ -1,11 +1,12 @@
 <img width="500" alt="poyopengl" src="https://github.com/jackoubridge/PyOpenGL/assets/116497746/26cdbe55-b64f-49bd-a2e6-13ab338ef06d">
 
-### This project implements
+### This project implements:
 - OBJ file loading
 - Mesh creation
 - Local illumination (flat shading, phong shading)
 - Shadow mapping
 - Texture mapping
+
 
 ## Controls:
 
