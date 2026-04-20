@@ -1,5 +1,4 @@
-Python==3.10.8
-pygame==2.1.2
-PyOpenGL==3.1.6
-numpy==1.23.4
-SDL==2.0.18
+numpy==2.4.4
+pygame==2.6.1
+PyOpenGL==3.1.10
+sdl==0.0.0
